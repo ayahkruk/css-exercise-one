@@ -1,5 +1,6 @@
 body {
   font-size: 14px;
+  text-align: center;
 }
 
 nav {
@@ -20,35 +21,20 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
-  padding-top: 30px;
-  text-align center
-}
-
 h3 {
   font-size: 1.3em;
 }
 
-.element h3 {
+.element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
-}
 
-.example, h4 {
-  padding-top: 30px;
-  text-align center
-}
-
-h4 {
-  font-size: 1.3em;
-}
-
-.element, h4 {
+.blue {
   background-color: blue;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
